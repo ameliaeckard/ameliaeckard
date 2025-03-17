@@ -1,11 +1,11 @@
 ## Hey 👋, I'm Amelia Eckard!
-<a href='https://www.linkedin.com/in/ameliaeckard/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/ameliaeckard/ameliaeckard/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-
 I am a Sophmore at UNC Charlotte studying Computer Science witha concentration in Software Engineering!
 <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDI1aWY1Z3o2cWU0dmU3MXlpdGpzNnRieGE5MG54MnV5dGZtcTlpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qc0BxWM9TxljvJug2x/giphy.gif" width="360px"/>
+<br/>
+<br/>
   
 ### 🧐 More About Me:
 
