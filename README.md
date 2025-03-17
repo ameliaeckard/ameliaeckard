@@ -13,17 +13,3 @@ I am a Sophmore at UNC Charlotte studying Computer Science witha concentration i
 - 📝 &nbsp; Checkout my [resume]( )
 
 <br>
-
-
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ameliaeckard)](https://git.io/streak-stats)
-
-</a>
-
-<br>
-
-### 🛠️ My Projects
-<a href="https://github.com/ameliaeckard/ameliaeckard.github.io" target="_blank"> Personal Website</a>
-<a href="https://github.com/ameliaeckard/ServerScanner" target="_blank"> Server Scanner</a>
