@@ -1,1 +1,1 @@
-## Hey 👋, I'm Amelia Eckard!
+## Hey, I'm Amelia Eckard!
